@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "image":"https://www.visionvivaah.com/customer/demo.png",
+        "name":"Babita Garg",
+        "location":"Chandigarh",
+        "text":"To begin with we are extremely obliged to Okasion Xperts for organizing memorable for us. We are from New York and we had decided to have our weeding in an India following our culture and tradition."
+    },
+    {
+        "id":2,
+        "name":"Rohit Kumar",
+        "image":"https://www.visionvivaah.com/customer/demo.png",
+        "location":"Mohali",
+        "text":"It was our pleasure to have you as our wedding planners for our Wedding in Jodhpur, Rajasthan.Our guest really appreciated the cocktail night before the marriage where they were entertained by the Rajasthani Fold Dancers."
+    },
+    {
+        "id":3,
+        "name":"Sumit Kumar",
+        "image":"",
+        "location":"amritsar",
+        "text":"Thank you for all your hard work in organising our wedding reception. Luke and I were extremely impressed with your professionalism and patience! We had an amazing time and we were very happy with the service,"
+    },
+    {
+        "id":4,
+        "name":"Gurpreet Singh",
+        "image":"https://www.visionvivaah.com/customer/demo.png",
+        "location":"Chandigarh",
+        "text":"Thank you, thank you, thank you for all your help, advice and support with planning our wedding at the InterContinental. The reception was unbelievable, exactly how we imagined and more!"
+    },
+    {
+        "id":5,
+        "name":"Kushwant singh",
+        "image":"https://www.visionvivaah.com/customer/demo.png",
+        "location":"amritsar",
+        "text":"Thank you very much for helping us co-ordinate our wedding. We had a fantastic day and everything ran smoothly thanks to your help. The ballroom looked amazing and the service was fantastic."
+    }
+]

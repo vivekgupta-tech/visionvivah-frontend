@@ -1,0 +1,48 @@
+[
+    {
+        "id":1,
+        "image":"https://www.visionvivaah.com/customer/demo.png",
+        "text":"It was our pleasure to have you as our wedding planners for our Wedding in Jodhpur, Rajasthan.Our guest really",
+        "left":"appreciated the cocktail night before the marriage where they were entertained by the Rajasthani Fold Dancers.",
+        "name":"ROHIT KUMAR",
+        "location":" - Mohali"
+        
+    },
+    {
+        "id":2,
+        "image":"https://www.visionvivaah.com/customer/demo.png",
+        "text":"To begin with we are extremely obliged to Okasion Xperts for organizing memorable for us. We are from New York and we ",
+        "left":" had decided to have our weeding in an India following our culture and tradition.",
+        "name":"Babita Garg",
+        "location":" - Chandigarh"
+
+    },
+    
+    {
+            "id":3,
+            "image":"https://www.visionvivaah.com/customer/demo.png",
+            "text":"Thank you very much for helping us co-ordinate our wedding. We had a fantastic day and everything ran smoothly thanks to",
+            "left":"your help. The ballroom looked amazing and the service was fantastic.",
+            "name":"Khushwant Singh",
+            "location":" - Amritsar"
+    
+     },
+     {
+        "id":4,
+        "image":"https://www.visionvivaah.com/customer/demo.png",
+    "text":"Thank you for all your hard work in organising our wedding reception. Luke and I were extremely impressed with your",      "left":"professionalism and patience! We had an amazing time and we were very happy with the service",
+        
+        "name":"Sumit Kumar",
+        "location":" - Amritsar"
+     },
+     {
+        "id":5,
+        "image":"https://www.visionvivaah.com/customer/demo.png",
+        "text":"Thank you, thank you, thank you for all your help, advice and support with planning our wedding at the InterContinental. The",
+        "left":"reception was unbelievable, exactly how we imagined and more!.",
+        "name":"Gurmit Singh",
+        "location":" - Chandigarh"
+     } 
+    
+
+]

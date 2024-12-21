@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "image":"https://www.visionvivaah.com/team/Director.jpg",
+        "name":"S.k.Bhardwaj",
+        "post":"Director",
+        "text":"We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    },
+    {
+        "id":2,
+        "image":"https://www.visionvivaah.com/team/HR.JPG",
+        "name":"Monika Singh",
+        "post":"HR",
+        "text":"We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    },
+    {
+        "id":3,
+        "image":"https://www.visionvivaah.com/team/Picture1.png",
+        "name":"Kanika Takkar",
+        "post":"general manager",
+        "text":"We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    },
+    {
+        "id":4,
+        "image":"https://www.visionvivaah.com/team/Picture2.png",
+        "name":"Anurag Jolly",
+        "post":"general manager",
+        "text":"We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    },
+    {
+        "id":5,
+        "image":"https://www.visionvivaah.com/team/Picture3.png",
+        "name":"Kritika Sharama",
+        "post":"senior manager",
+        "text":"We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    },
+    {
+        "id":6,
+        "image":"https://www.visionvivaah.com/team/Picture4.png",
+        "name":"Suyash Sadana",
+        "post":"manager",
+        "text":"We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    },
+    {
+        "id":7,
+        "image":"https://www.visionvivaah.com/team/Picture5.png",
+        "name":"Sandeep Kapoor",
+        "post":"Head Decoration",
+        "text":"We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    },
+    {
+        "id":8,
+        "image":"https://www.visionvivaah.com/team/Picture6.png",
+        "name":"Rishi joshi",
+        "post":"Head-Entertainment",
+        "text":"We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    },
+    {
+        "id":9,
+        "image":"https://www.visionvivaah.com/team/Picture7.png",
+        "name":"Preety Mehta",
+        "post":"Head-Catering",
+        "text":"We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    }
+   
+]
